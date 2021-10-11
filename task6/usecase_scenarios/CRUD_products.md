@@ -2,7 +2,7 @@
 | --- | --- |
 | Use case title | **CRUD products** |
 | Precondition | Person is authorised as a Farmer. He/she logged in into the system |
-| Postcondition | Product(s) is(are) created in the system and are visible to the users. All changes are correctly written and can be read |
+| Postcondition | Product(s) is(are) created in the system and are visible to the Customers. All changes are correctly written and can be read |
 | Main actor | Farmer|
 | Date | 10/10/2021 |
 
