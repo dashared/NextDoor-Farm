@@ -8,7 +8,7 @@
 
 ## Main scenario
 
-**Create[C]:**
+### Create [C]
 
 1. Customer enters a query in the search bar.
 2. Customer selects the required tags.
@@ -20,7 +20,7 @@
 8. Customer, if necessary, changes the order details and confirms order.
 9. System forms a UI with a corresponding successful message.
 
-**Read[R]:**
+### Read [R]
 
 1. Customer opens the history of his orders.
 2. System displays a list of orders that the Customer made.
@@ -29,7 +29,7 @@
 
 ## Alternative scenario
 
-**1: Update[U]:**
+### 1: Update[U]
 
 Start condition: customer wants to cancel the order.
 
@@ -43,7 +43,7 @@ Start condition: customer wants to cancel the order.
 
 3.5. System forms a UI with a corresponding successful message.
 
-**2: Delete[D]:**
+### 2: Delete[D]
 
 1. Customer opens an order that is at the checkout stage and has not yet been shipped.
 2. System dispalys the current composition of the order and information about.
