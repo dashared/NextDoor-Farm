@@ -1,6 +1,6 @@
 | Title | Description |
 | --- | --- |
-| Use case title | **Create subscription** |
+| Use case title | **Create and update subscription** |
 | Precondition | Person is authorised as a Customer. He/she logged in into the system. |
 | Postcondition | Customer subscribed to scheduled deliveries with the fixed set of products. |
 | Main actor | Customer|

@@ -1,6 +1,6 @@
 | Title | Description |
 | --- | --- |
-| Use case title | **CRUD order** |
+| Use case title | **Create and update order** |
 | Precondition | Person is authorised as a Customer. He/she logged in into the system.  |
 | Postcondition | Order is created in the system. All changes are correctly written and can be read. |
 | Main actor | Customer|
